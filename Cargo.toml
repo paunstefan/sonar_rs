@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"sonar_common",
+	"sonar_client",
+	"sonar_rpi",
+]
